@@ -2,12 +2,6 @@ import java.util.Scanner;
 
 public class Machine {
     public static void main(String[] args) {
-        /* 1. Mesaj de intampinare : " Welcome to Kaufland "
-        2. Introdu valoarea cumparaturilor : random number
-        3. Introdu banii in aparat : random number
-        4. Calculeaza restul
-        5. Afiseaza bancnotele pe care le primesti
-         */
 
         Scanner sc = new Scanner(System.in);
         System.out.println("Welcome to Kaufland\n");
